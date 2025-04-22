@@ -1,3 +1,5 @@
 # Gitbasics
 
-this is a readme.md file
+## this is a readme.md file
+
+## Keep learning new things
